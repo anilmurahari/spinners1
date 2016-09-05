@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">spinners1</string>
+
+    <string-array name="spinnerActivity">
+        <item>Center</item>
+        <item>Left Wing</item>
+        <item>Right Wing</item>
+        <item>Goalie</item>
+        <item>Defenceman</item>
+    </string-array>
+</resources>
